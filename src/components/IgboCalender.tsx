@@ -5,7 +5,7 @@ type MarketDay = (typeof MARKET_DAYS)[number];
 
 // Anchor date: 2025-11-28 is ORIE (index 1)
 const ANCHOR_DATE = new Date("2025-11-28T00:00:00Z");
-const ANCHOR_INDEX = 1; // ORIE
+const ANCHOR_INDEX = 3; // nkwo
 
 function daysBetween(a: Date, b: Date) {
   // count full calendar days
