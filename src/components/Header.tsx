@@ -14,7 +14,7 @@ export default function Header() {
     <header className="w-full bg-white  sticky top-0 z-40 ">
       <div className="max-w-5xl mx-auto flex items-center justify-between p-4 shadow-2xl">
         <div className="flex items-center space-x-3">
-          <img src="/src/assets/logo.png"   className="w-[50px] h-[50px]" alt="logo" />
+          <img src="/images/logo.png"   className="w-[50px] h-[50px]" alt="logo" />
           {/* <h1 className="font-bold text-traditional-700">Ugogbuzuo Age grade</h1> */}
         </div>
 
