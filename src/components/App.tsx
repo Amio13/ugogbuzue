@@ -2,6 +2,7 @@ import Header from "./Header";
 import IgboCalendar from "./IgboCalender";
 import EventsCarousel from "./EventCarousel";
 import Footer from "./Footer";
+import AdvertCarousel from "./AdvertCarousel";
 
 
 
@@ -28,6 +29,7 @@ export default function App() {
 
         <IgboCalendar />
         <EventsCarousel />
+          <AdvertCarousel />
 
         <section id="about" className="py-6 px-4">
           <div className="max-w-lg mx-auto">
