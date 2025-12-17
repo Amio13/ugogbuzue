@@ -34,7 +34,7 @@ const events: EventItem[] = [
   {
     title: "Ekwulu Day",
     date: "January 2, 2026",
-    description: "Celebration of traditions, families, and dance in Ekwulu.",
+    description: "Celebration of traditions and families in Ekwulu.",
     image: "/images/ekwuluday.jpg",
   },
 
