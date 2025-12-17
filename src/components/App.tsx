@@ -35,7 +35,7 @@ export default function App() {
           <div className="max-w-lg mx-auto">
             <h3 className="text-lg font-bold text-traditional-700">About Us</h3>
             <p className="mt-2 text-gray-700 ">
-              Ekwulu Village is a village in Umuoji, Idemmili North Local Government of Anambra State. We are known for our Hospitality, Love and Unity. <b>Ugogbuzue Kwezuonuoo Ugogbuzuo Ochakeee!!!</b>
+              Ekwulu is a village in Umuoji, Idemmili North Local Government of Anambra State. We are known for our Hospitality, Love and Unity. <b>Ekwulu Kwezuonuo!!!</b>
             </p>
           </div>
         </section>
