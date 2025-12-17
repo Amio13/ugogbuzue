@@ -16,18 +16,27 @@ const events: EventItem[] = [
     description: "The entire Family of Nwafor Okeke invites the entire village for the burial of their father",
     image: "/images/nwafor.jpg",
   },
+  
+    {
+    title: "Ekwulu UYDA Football Outing",
+    date: "December 20, 2025",
+    description: "From 20th dec., we engage in UYDA FOOTBALL TOURNAMENT in Group C",
+    image: "/images/ekwulufootball.png",
+  },
+
+  {
+    title: "Umunna League",
+    date: "January 1, 2026",
+    description: "Umunna Football Tournament begins, everyone is ready to go.",
+    image: "/images/footballumunna.jpg",
+  },
+
   {
     title: "Ekwulu Day",
-    date: "December 28, 2025",
+    date: "January 2, 2026",
     description: "Celebration of traditions, families, and dance in Ekwulu.",
     image: "/images/ekwuluday.jpg",
   },
-  {
-    title: "Ekwulu Football Tournament",
-    date: "December 31, 2025",
-    description: "Umunna Football Tournament begins, everyone is ready to go.",
-    image: "/images/footballumunna.jpg",
-  }
 
 
 ];

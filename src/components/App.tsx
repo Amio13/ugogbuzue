@@ -15,7 +15,7 @@ export default function App() {
         <section id="home" className="py-6">
           <div className="bg-white p-6 rounded-xl shadow">
             <h2 className="text-2xl font-bold text-traditional-700">
-              Welcome to Ugogbuzuo App
+              Welcome to Ekwuo App
             </h2>
             <p className="mt-2 text-gray-700">
               This is a Community Page Dedicated to Ekwulu Village

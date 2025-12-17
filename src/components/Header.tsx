@@ -57,12 +57,13 @@ export default function Header() {
   return (
     <header className="w-full bg-white sticky top-0 z-50 shadow-md">
       <div className="max-w-5xl mx-auto flex items-center justify-between p-4">
-        <div className="flex items-center space-x-3">
-          <img
+        <div className="flex items-center space-x-3 font-sans text-2xl font-black tracking-tighter text-slate-900 ">
+          {/* <img
             src="/images/logo.png"
             className="w-[50px] h-[50px]"
             alt="logo"
-          />
+          /> */}
+          EKWUO APP
         </div>
 
         {/* Desktop Links */}
