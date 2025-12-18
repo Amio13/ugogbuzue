@@ -11,10 +11,10 @@ interface EventItem {
 
 const events: EventItem[] = [
       {
-    title: "Burial of Mr. Chris Okeke",
-    date: "November 27, 2025",
-    description: "The entire Family of Nwafor Okeke invites the entire village for the burial of their father",
-    image: "/images/nwafor.jpg",
+    title: "Traditional Marriage",
+    date: "December 30, 2025",
+    description: "High Chief Silas Obinwude invites us to the marriage of his daughter Somtochukwu",
+    image: "/images/somto.jpg",
   },
   
     {
